@@ -1,25 +1,25 @@
 Dear Colleagues,
 
 Thank you for your interest in the Human Pangenome Project. To provide feedback on the HPP White Paper, please create an "issue" using the instructions below. If you have any questions or need further assistance, please contact us at info@ga4gh.org. 
-Creating an issue from a repository      
-1. Navigate to the "WhitePaper.md" file in the Repository's home or "codebase".
-   
-2. In the repository toolbar, click **Issues**.  
 
+
+## Creating an issue ##
+
+### 1. Navigate to the "WhitePaper.md" file in the Repository's homepage or "code" section:
+<img width="918" alt="Screenshot 2024-02-21 at 11 22 35 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/c56228b5-02c8-4266-8416-a7bde08bd578">
+
+### 2. In the repository toolbar, click "Issues": 
 <img width="1501" alt="Screenshot 2024-02-21 at 11 06 10 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/8d42216c-70c1-40c2-be73-3660976c148f">
 
-3. Click **New issue**. 
+### 3. Click "New issue" on the right:
+<img width="1371" alt="Screenshot 2024-02-21 at 11 30 23 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/50216739-072c-40a6-bf8f-08a21cdaaf51">
 
-    3.a. In the "Title" field, type a title for your comment.
-    <img width="1195" alt="Screenshot 2024-02-21 at 11 15 49 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/06f92ef5-c8e6-4fc7-be9d-ecac3af829f9">
+#### 3.a. In the comment title field, type at title for your comment:
 
-    3.b. In the comment body field, type your comment:
-    <img width="1202" alt="Screenshot 2024-02-21 at 11 15 59 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/f774f25f-b89f-465e-8033-85ece83f7bbd">
+#### 3.b. In the comment body field, type your comment:
+    
+#### 3.c. Label your comment as either a question, comment, suggestion, or other (ignore all other fields on the right):
 
-  
-    3.c. Ignore all of the fields on the right hand side bar, excpet for "labels" - please label your comment as either a question, comment, suggestion, or other:
-    <img width="1196" alt="Screenshot 2024-02-21 at 11 17 16 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/dec80099-49d0-4b7c-bed6-ac4ed803f6af">
+### 4. When you're finished, click "Submit new issue".
 
-5. When you're finished, click **Submit new issue**.
-
-6. For more detailed instructions on issue creation in GitHub, please visit https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
+### 5. For more detailed instructions on issue creation in GitHub, please visit https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue
