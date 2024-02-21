@@ -3,6 +3,7 @@ Dear Colleagues,
 Thank you for your interest in the Human Pangenome Project. To provide feedback on the HPP White Paper, please create an "issue" using the instructions below. If you have any questions or need further assistance, please contact us at info@ga4gh.org. 
 
 Sincerely,
+
 Angela Page and Heather Lawson
 
 
