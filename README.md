@@ -4,6 +4,8 @@ Thank you for your interest in the Human Pangenome Project. To provide feedback 
 Creating an issue from a repository      
 1. In the repository toolbar, click **Issues**.  
 
+<img width="1501" alt="Screenshot 2024-02-21 at 11 06 10 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/8d42216c-70c1-40c2-be73-3660976c148f">
+
 3. Click **New issue**.
 4. If your repository uses issue templates, next to the type of issue you'd like to open, click **Get started**.
 5. If the type of issue you'd like to open isn't included in the available options, click **Open a blank issue**.
