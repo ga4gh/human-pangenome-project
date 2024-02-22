@@ -11,7 +11,7 @@ Angela Page and Heather Lawson
 ## Creating an issue ##
 
 ### 1. Navigate to the "WhitePaper.md" file in the Repository's homepage or "code" section:
-<img width="918" alt="Screenshot 2024-02-21 at 11 22 35 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/c56228b5-02c8-4266-8416-a7bde08bd578">
+<img width="948" alt="Screenshot 2024-02-22 at 8 56 11 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/ea760bbc-b587-43c3-aaf4-5451c3345ce4">
 
 ### 2. In the repository toolbar, click "Issues": 
 <img width="1501" alt="Screenshot 2024-02-21 at 11 06 10 AM" src="https://github.com/ga4gh/human-pangenome-project/assets/44613972/8d42216c-70c1-40c2-be73-3660976c148f">
